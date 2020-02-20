@@ -2,6 +2,7 @@
 # URL: https://app.rollout.io/ex/5e4ed0cbff09bf3c400ddf13
 type: experiment
 name: my name
+enabled: false
 flag: default.myName
 availableValues:
   - Summer
